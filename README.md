@@ -4,7 +4,7 @@ This is a simple number guessing game built with Python and Tkinter.
 
 ## How to Play
 
-1.  Clone the repository: `git clone <repository_url>`
+1.  Clone the repository: `git clone https://github.com/imhariDcoder/Number_Guess`
 2.  Run the Python script: `python main.py` (or the name of your Python file)
 3.  Choose a difficulty level (Easy, Medium, or Hard).
 4.  Enter your guesses in the entry field and click "Guess" or press Enter.
